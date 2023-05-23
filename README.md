@@ -2,7 +2,7 @@
 
 ![Geleceği Yazanlar Logo](https://gelecegiyazanlar.turkcell.com.tr/themes/custom/gyz/logo.svg)
 
-## <img  style="margin-top:3px" src="./src/asset/logo/darkMinds.png">
+## <img  style="margin-top:3px" src="">
 ## <img  style="margin-top:3px;" src="./src/asset/logo/lightMinds.png">
 
 
