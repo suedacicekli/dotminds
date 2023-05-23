@@ -1,0 +1,97 @@
+{
+  "blog": [
+    {
+      "id": 1,
+      "title": "Roy Moore leaving the Alabama",
+      "category": "Lifestyle",
+      "image": "https://images.unsplash.com/photo-1615106907118-7a6824f875a0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1922&q=80",
+      "image2": "https://images.unsplash.com/photo-1559839777-97c355e3d216?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "text": "When the video of failed senatorial candidate Roy Moore leaving the Alabama polling station on horseback popped up in my Twitter feed, I was absolutely riveted. I knew instantaneously that there were two sets of people watching the footage: those without any equestrian experience who would make what they would of the video, and riders like myself, who would understand that they were effectively watching a confession.In comparison to women’s voices (which claim, and cry, and nag), domestic animals are the ne plus ultra in sweet complicity.",
+      "text2": "Unfortunately for Moore, however, horses’ body language is renownedly intelligible. Any horse person in the universe (and it turns out there are a ton), could read Sassy’s behavior during her public relations outing as a Morse code of distress.When horses have their ears back, it means that they feel threatened. I don’t feel good in this situation, such ears say.",
+      "summary": "There is a massive difference between a bad rider and a cruel one. Roy Moore is the latter. Intentionally deaf to his horse’s comfort, gleefully indifferent to her needs, in addition to his allegations of sexual misconduct, we might add animal abuse, too. #FreeSassy, indeed.",
+      "date": "17/05/2023 02:22",
+      "username": "maum_courtney",
+      "writerName": "Courtney",
+      "writerSurname": "Maum",
+      "writerAvatar": "./src/asset/avatars/avatar1.png"
+    },
+    {
+      "id": 2,
+      "title": "Using the ESP8266 WiFi Module with Arduino Uno publishing to ThingSpeak",
+      "category": "Technology",
+      "image": "https://images.unsplash.com/photo-1603732551681-2e91159b9dc2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "image2": "https://images.unsplash.com/photo-1603732551658-5fabbafa84eb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "text": "I’ve got this ESP8266 WiFi module hanging around that I’ve never really used. I also have a few Arduino UNOs sitting here not getting any use at the moment. I thought this would be a great time to put the two together for a project I’m working on. It wasn’t easy. There was a ton of conflicting and confusing content that made it much more difficult. I’m writing this up in hopes it might help the next guy just a little bit.",
+      "text2": "First and foremost, a search for ESP8266 will turn up many references to an awesome tiny micro-controller that’s been all the rage until the new ESP32 recently came out. At first, you might think you searched for the wrong thing, but nope you didn’t. This little component is the original and it technically can be programmed just like it’s bigger siblings. It only has two GPIO pins though and isn’t really designed to be a micro-controller. Adding “Wifi Module” to your searches helps focus the results",
+      "summary": "Search for “ESP8266 WiFI Module”",
+      "date": "10/05/2023 10:13",
+      "username": "grant_christopher",
+      "writerName": "Christopher",
+      "writerSurname": "Grant",
+      "writerAvatar": "./src/asset/avatars/avatar2.png"
+    },
+    {
+      "id": 3,
+      "title": "Yes, React is taking over front-end development. The question is why.",
+      "category": "Technology",
+      "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "image2": "https://images.unsplash.com/photo-1627398242454-45a1465c2479?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1548&q=80",
+      "text": "Working with the DOM API is hard. React basically gives developers the ability to work with a virtual browser that is more friendly than the real browser. React’s virtual browser acts like an agent between the developer and the real browser. React enables developers to declaratively describe their User Interfaces and model the state of those interfaces.",
+      "text2": "But there’s a lot more to it than just that. Let’s attempt to cover all the reasons behind React’s rising popularity. One reason is its Virtual DOM (React’s reconciliation algorithm). We’ll work through an example to show the actual practical value of having such an algorithm at your command.",
+      "summary": "We then manage the updates on our data as needed without worrying about the steps needed to reflect these updates on the actual User Interface in the browser (because we know React will do exactly that and it will do that in an efficient way!)”",
+      "date": "15/05/2023 03:00",
+      "username": "buna_samer",
+      "writerName": "Samer",
+      "writerSurname": "Buna",
+      "writerAvatar": "./src/asset/avatars/avatar1.png"
+    },
+    {
+      "id": 5,
+      "title": "Why I travel solo",
+      "category": "Travel",
+      "image": "https://images.unsplash.com/photo-1682687220742-aba13b6e50ba?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "image2": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "text": "I’m 27 and female. Since I was 21, I’ve been away at least once a year, for anything from 3 nights to 9 months, alone. I also go on trips with friends, but I make a point of regularly going solo.\n\nWhen alone, I’ve been met with various reactions, but they tend to fall into two broad camps:\n\nAwesome, that must be really fun! (Wide eyes, look of interest, wants to hear stories)\nReally? You’re on your own?!",
+      "text2": "",
+      "summary": "So. If you’ve ever found yourself in the second camp — looking at this slightly bedraggled solo-traveller as she makes herself some sad looking pasta-for-one, and thinking she might be a bit odd — well, I hope this explains it a little. Let’s have a beer.",
+      "date": "21/05/2023 02:18",
+      "username": "warner_becca",
+      "writerName": "Becca",
+      "writerSurname": "Warner",
+      "writerAvatar": "./src/asset/avatars/avatar5.png"
+    },
+    {
+      "id": 7,
+      "title": "What’s The Point in a Croissant?",
+      "category": "Food",
+      "image": "https://images.unsplash.com/photo-1623334044303-241021148842?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "image2": "https://miro.medium.com/v2/resize:fit:1100/format:webp/1*IPUt_16vHRMDT7U5oRUZMg.jpeg",
+      "text": "I live in France in a town with eight boulangeries within spitting distance of my apartment, and I’ve tried every croissant they have to offer many times over. Each morning I get up, walk to one, buy a croissant and leave without getting into too much conversation about the weather.",
+      "text2": "",
+      "summary": "Look at the picture above and ask yourself the question: How do I eat something as delicate as that? Can I even touch it? Do I need tongs? Can I simply bite it? Slice it? Butter it? Fill it with jam? Nutella? Or do you dip it in your coffee or hot chocolate first?\n\nYou’re probably wondering why does it matter? What’s wrong with you? Are you suffering from a form of food fetish? It’s just a lump of dough cooked in an oven. Get it down you!",
+      "date": "04/05/2018 02:38",
+      "username": "authore_selyy",
+      "writerName": "Selyy",
+      "writerSurname": "Authore",
+      "writerAvatar": "./src/asset/avatars/avatar12.png"
+    },
+    {
+      "id": 8,
+      "title": "What’s Proper Sushi Etiquette, Anyway?",
+      "category": "Food",
+      "image": "https://images.unsplash.com/photo-1583623025817-d180a2221d0a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1771&q=80",
+      "image2": "https://images.unsplash.com/photo-1617196034738-26c5f7c977ce?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80",
+      "text": "Rigidity in dining does not lend itself to an enjoyable meal; however, certain customs are designed to help you enjoy your sushi more fully. These rules are worth following, not because you’ll please those around you with your impeccable manners (which I assume you already do), but because these guidelines will help you taste sushi the way it was intended and have an enjoyable experience while you do.",
+      "text2": "A greeting in any restaurant is a first impression, a signifier of what’s to come. Respond with a smile and a happy hello, and think of this exchange as opening a dialogue with the chef. You may want to ask questions or look for recommendations, and your salutation will begin that conversation in a positive way.",
+      "summary": "Let’s face it: sushi has evolved (or arguably, devolved) far from its traditional Japanese roots. Offerings with cream cheese, pineapple, and barbecued meats all purport to be sushi, but aren’t exactly authentic. There’s a reason it’s called a California roll and not a Tokyo roll.",
+      "date": "20/05/2023 02:43",
+      "username": "kotashu_hakika",
+      "writerName": "Hakika",
+      "writerSurname": "Kotashu",
+      "writerAvatar": "./src/asset/avatars/avatar12.png"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
